@@ -25,7 +25,7 @@ The system would be used in hospitals:
 3. Doctor reviews result  
 4. Aggregated results are monitored for trends
 
-![xray](https://upload.wikimedia.org/wikipedia/commons/3/3b/Chest_Xray_PA_3-8-2010.png)
+(https://upload.wikimedia.org/wikipedia/commons/3/3b/Chest_Xray_PA_3-8-2010.png)
 
 ## Data sources and AI methods
 
