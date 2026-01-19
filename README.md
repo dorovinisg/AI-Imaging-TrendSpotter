@@ -59,7 +59,5 @@ return prediction
 
 ## Acknowledgments
 
-Building AI – University of Helsinki & Reaktor  
-Open source AI libraries and public datasets
-
+***
 
